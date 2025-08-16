@@ -1,10 +1,9 @@
 # CS3205 – Computer Networks Programming Assignments (Holi 2025)
 
 This repository contains the solutions to the programming assignments for the **CS3205: Computer Networks** course (Semester Holi 2025).  
+
+
 ---
-
-
-
 ## 📘 Assignment Summaries  
 
 ### **Assignment 1: Network Traffic & Web Performance**  
